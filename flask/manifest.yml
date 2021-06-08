@@ -1,0 +1,8 @@
+---
+applications:
+
+ 
+ - name: flask_demo
+   random-route: true
+   memory: 512M
+   disk_quota: 1.5G
